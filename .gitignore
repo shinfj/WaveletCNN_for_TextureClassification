@@ -1,0 +1,9 @@
+*.pyc
+Data/
+.ipynb_checkpoints/
+*.ipynb
+*.npy
+*_lmdb/
+*.caffemodel
+*.solverstate
+*.binaryproto

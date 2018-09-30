@@ -1,0 +1,13 @@
+net: "models/WaveletCNN_4level.prototxt"
+type: "Adam"
+test_iter: 60
+test_interval: 500
+base_lr: 0.01
+lr_policy: "fixed"
+momentum: 0.9
+momentum2: 0.999
+display: 100
+max_iter: 20000
+snapshot: 5000
+snapshot_prefix: "models/caffe_waveletCNN_4level_train"
+solver_mode: GPU
