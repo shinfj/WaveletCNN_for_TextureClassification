@@ -21,7 +21,7 @@ Please go to `models` directory and follow the instructions.
 python run_waveletcnn.py --phase train --gpu 0 --dataset path/to/dataset_lmdb
 ```
 
-To run this code, you have to prepare your dataset as LMDB format. (Otherwise, you have to rewrite "models/WaveletCNN_4level.prototxt")
+To run this code, you have to prepare your dataset as LMDB format. (Otherwise, you have to rewrite `models/WaveletCNN_4level.prototxt`)
 
 And you might need to rewrite some settings in `models/solver_WaveletCNN_4level.prototxt`, such as **test_iter**, **base_lr** and **max_iter**.
 
