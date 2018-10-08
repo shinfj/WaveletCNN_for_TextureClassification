@@ -1,5 +1,4 @@
 *.pyc
-Data/
 .ipynb_checkpoints/
 *.ipynb
 *.npy
@@ -7,3 +6,4 @@ Data/
 *.caffemodel
 *.solverstate
 *.binaryproto
+kth-tips2-b/

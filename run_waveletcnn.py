@@ -65,7 +65,7 @@ elif args.phase == "test":
     # the output probability vector for the first image in the batch
     output_prob = out['prob'][0]
 
-    labels = 'Dataset/labels.txt'   # Path to the text file containing a label name per each line.
+    labels = 'data/imagenet_labels.txt'   # Path to the text file containing a label name per each line.
     label_list = np.loadtxt(labels, str, delimiter='\t')
 
     # top-5 for the probability

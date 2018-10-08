@@ -1624,7 +1624,7 @@ layer {
   bottom: "norm6"
   top: "fc7"
   inner_product_param {
-    num_output: 11
+    num_output: 1000
     weight_filler {
       type: "msra"
     }
