@@ -9,6 +9,8 @@ This is a Caffe implementation of a paper, [Wavelet Convolutional Neural Network
 
 This code was tested with NVIDIA GeForce GTX 1080 on Windows 10.
 
+When you set up the environment of Caffe on Windows, we recommend you to use [this version of Caffe](https://github.com/willyd/caffe/tree/windows), instead of [the windows branch of the official Caffe](https://github.com/BVLC/caffe/tree/windows).
+
 ## Pre-trained Model
 
 Please go to `models` directory and follow the instructions.
