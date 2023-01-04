@@ -6,7 +6,7 @@ For this dataset, our model achieved the accuracy of 59.8%.
 
 ## Download
 
-You can download pre-trained caffemodel from [here](https://drive.google.com/open?id=10_j21sKZxbmLcfZhAIxGYwKGl-meYhAg).
+You can download pre-trained caffemodel from [here](https://www.dropbox.com/s/ufv7kzds58wwp2a/ImageNet_waveletCNN_level4.caffemodel?dl=0).
 
 ## References
 
